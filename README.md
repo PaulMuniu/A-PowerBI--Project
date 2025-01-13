@@ -24,7 +24,7 @@ Project Files
 - Download the Power BI File: [Open the interactive Power BI report file](data_professional_survey_breakdown.pbix)
 - or Download the PDF Report: [Download or view the full report as a PDF](data_professional_survey_breakdown.pdf)
 
-![report screenshot](Images/image2.jpg)
+![report screenshot](Images/Image2.jpg)
 
 ### Country of Survey Takers
 - **Visualization**: A treemap showcasing the distribution of survey respondents by country.  
