@@ -13,12 +13,6 @@ This project presents a comprehensive breakdown of a survey conducted among data
 5. [Difficulty to Break into Data Science](#difficulty-to-break-into-data-science)  
 6. [Average Salary and Work-Life Balance](#average-salary-and-work-life-balance)  
 7. [Happy with their Salary](#happy-with-their-salary)  
-8. [Installation](#installation)  
-9. [Usage](#usage)  
-10. [Features](#features)  
-11. [Contributing](#contributing)  
-12. [License](#license)  
-13. [Contact](#contact)
 
 ---
 ## Report Overview
@@ -28,9 +22,9 @@ The complete analysis and visualizations are compiled here:
 Project Files
 
 - Download the Power BI File: [Open the interactive Power BI report file](data_professional_survey_breakdown.pbix)
-- View the PDF Report: [Download or view the full report as a PDF](data_professional_survey_breakdown.pdf)
+- or Download the PDF Report: [Download or view the full report as a PDF](data_professional_survey_breakdown.pdf)
 
-![report screenshot](Images/Image2.jpg)
+![report screenshot](Images/image2.jpg)
 
 ### Country of Survey Takers
 - **Visualization**: A treemap showcasing the distribution of survey respondents by country.  
@@ -72,3 +66,5 @@ Project Files
 ### Happy with their Salary
 - **Visualization**: A gauge chart representing salary satisfaction.  
 - **Highlights**: The average salary satisfaction rating is **4.27** out of 10.
+
+>## *“Playing in mud gets you Dirty.”* - Joyce Meyer.
